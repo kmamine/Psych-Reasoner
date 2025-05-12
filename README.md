@@ -19,7 +19,8 @@ Emulate an env of several personalities of patients with detailed backgrounds be
 
 ---
 
-1. **Problem Statement**: Current mental health chatbots are either rule-based, limited in depth, or reliant on static datasets. They often fail to:
+### 1. Problem Statement: 
+Current mental health chatbots are either rule-based, limited in depth, or reliant on static datasets. They often fail to:
 
 - Handle complex psychological resistance and trauma.
 
@@ -33,7 +34,7 @@ We aim to address these limitations by creating an autonomous self-play training
 
 ---
 
-2. Objectives:
+### 2. Objectives:
 
 - Develop a multi-agent ecosystem of simulated psychological personas.
 
@@ -49,7 +50,7 @@ We aim to address these limitations by creating an autonomous self-play training
 
 ---
 
-3. Core Components:
+### 3. Core Components:
 
 3.1. Synthetic Agent Community:
 
@@ -90,7 +91,7 @@ We aim to address these limitations by creating an autonomous self-play training
 
 ---
 
-4. Methodology:
+### 4. Methodology:
 
 - Use a multi-agent reinforcement learning framework with centralized training.
 
@@ -104,7 +105,7 @@ We aim to address these limitations by creating an autonomous self-play training
 
 ---
 
-5. Technical Stack:
+### 5. Technical Stack:
 
 - LLM: LLaMA 3.2, Mistral, or fine-tuned ChatGPT models.
 
@@ -120,7 +121,7 @@ We aim to address these limitations by creating an autonomous self-play training
 
 ---
 
-6. Expected Outcomes:
+### 6. Expected Outcomes:
 
 - A benchmark framework for training introspective mental health agents.
 
@@ -134,7 +135,7 @@ We aim to address these limitations by creating an autonomous self-play training
 
 ---
 
-7. Feasibility Study:
+### 7. Feasibility Study:
 
 7.1 Dataset Generation:
 
@@ -177,7 +178,7 @@ We aim to address these limitations by creating an autonomous self-play training
 
 ---
 
-8. Broader Impact:
+### 8. Broader Impact:
 
 - Democratize access to affordable, intelligent emotional support.
 
@@ -189,21 +190,21 @@ We aim to address these limitations by creating an autonomous self-play training
 
 ---
 
-Next Steps:
+## Next Steps:
 
-[ ] Define initial personas and disorders for simulation.
-
-
-[ ] Prototype single-agent vs therapist self-play.
+- [ ] Define initial personas and disorders for simulation.
 
 
-[ ] Build multi-agent orchestration pipeline.
+- [ ] Prototype single-agent vs therapist self-play.
 
 
-[ ] Define reward functions and evaluation metrics.
+- [ ] Build multi-agent orchestration pipeline.
 
 
-[ ] Train and iterate.
+- [ ] Define reward functions and evaluation metrics.
+
+
+- [ ] Train and iterate.
 
 
 
