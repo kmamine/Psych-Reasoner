@@ -1,6 +1,6 @@
 # Psych-Reasoner
 
-A sophisticated multi-agent system for simulated mental health therapy, leveraging reinforcement learning and adversarial multi-agent dynamics to create more effective therapeutic interactions.
+A sophisticated multi-agent system for simulated mental health therapy, leveraging reinforcement learning and adversarial multi-agent dynamics to create more effective therapeutic interactions
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
